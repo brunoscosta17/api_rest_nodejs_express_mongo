@@ -1,0 +1,26 @@
+{
+  "name": "api_rest_nodejs_express_mongo",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=BN_8bCfVp88",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoscosta17/api_rest_nodejs_express_mongo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "api",
+    "rest"
+  ],
+  "author": "Bruno Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoscosta17/api_rest_nodejs_express_mongo/issues"
+  },
+  "homepage": "https://github.com/brunoscosta17/api_rest_nodejs_express_mongo#readme"
+}
