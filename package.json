@@ -1,7 +1,7 @@
 {
   "name": "api_rest_nodejs_express_mongo",
   "version": "1.0.0",
-  "description": "https://www.youtube.com/watch?v=BN_8bCfVp88",
+  "description": "API REST NodeJS, Express e MongoDB.  Conceitos do NodeJS + Express; estrutura de pastas, conexão ao MongoDB, model, controller e rota para cadastro de usuário com senha criptografada. Curso: https://www.youtube.com/watch?v=BN_8bCfVp88; Rocketseat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,17 @@
   "bugs": {
     "url": "https://github.com/brunoscosta17/api_rest_nodejs_express_mongo/issues"
   },
-  "homepage": "https://github.com/brunoscosta17/api_rest_nodejs_express_mongo#readme"
+  "homepage": "https://github.com/brunoscosta17/api_rest_nodejs_express_mongo#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.2.1",
+    "mongoose": "^5.5.2",
+    "nodemailer": "^6.1.1",
+    "nodemailer-express-handlebars": "^3.0.0",
+    "path": "^0.12.7"
+  }
 }
